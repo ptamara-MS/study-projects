@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<ArrayOfPlane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Plane xsi:type="CargoPlane">
+    <Manufacturer>Bombardier</Manufacturer>
+    <Model>Q-400</Model>
+    <FlightRange>2040</FlightRange>
+    <CruiseSpeed>667</CruiseSpeed>
+    <PassengersNumber>15</PassengersNumber>
+    <CarryingCapacity>4700</CarryingCapacity>
+    <Usage>commercial</Usage>
+  </Plane>
+  <Plane xsi:type="PassengerPlane">
+    <Manufacturer>Tupolev</Manufacturer>
+    <Model>Tu-154</Model>
+    <FlightRange>2850</FlightRange>
+    <CruiseSpeed>900</CruiseSpeed>
+    <PassengersNumber>95</PassengersNumber>
+    <CarryingCapacity>67000</CarryingCapacity>
+    <PassengersClass>economy</PassengersClass>
+    <Luggage>false</Luggage>
+  </Plane>
+  <Plane xsi:type="PassengerPlane">
+    <Manufacturer>Embraer</Manufacturer>
+    <Model>E-175</Model>
+    <FlightRange>3334</FlightRange>
+    <CruiseSpeed>890</CruiseSpeed>
+    <PassengersNumber>76</PassengersNumber>
+    <CarryingCapacity>54000</CarryingCapacity>
+    <PassengersClass>economy</PassengersClass>
+    <Luggage>false</Luggage>
+  </Plane>
+  <Plane xsi:type="CargoPlane">
+    <Manufacturer>Antonov</Manufacturer>
+    <Model>An-124</Model>
+    <FlightRange>3700</FlightRange>
+    <CruiseSpeed>865</CruiseSpeed>
+    <PassengersNumber>20</PassengersNumber>
+    <CarryingCapacity>150000</CarryingCapacity>
+    <Usage>military</Usage>
+  </Plane>
+  <Plane xsi:type="CargoPlane">
+    <Manufacturer>Lockheed</Manufacturer>
+    <Model>C-5</Model>
+    <FlightRange>4440</FlightRange>
+    <CruiseSpeed>919</CruiseSpeed>
+    <PassengersNumber>12</PassengersNumber>
+    <CarryingCapacity>122470</CarryingCapacity>
+    <Usage>military</Usage>
+  </Plane>
+  <Plane xsi:type="CargoPlane">
+    <Manufacturer>Douglas</Manufacturer>
+    <Model>DC-10-30</Model>
+    <FlightRange>5790</FlightRange>
+    <CruiseSpeed>908</CruiseSpeed>
+    <PassengersNumber>7</PassengersNumber>
+    <CarryingCapacity>77000</CarryingCapacity>
+    <Usage>commercial</Usage>
+  </Plane>
+  <Plane xsi:type="PassengerPlane">
+    <Manufacturer>Concorde</Manufacturer>
+    <Model>G-BOAC</Model>
+    <FlightRange>7223</FlightRange>
+    <CruiseSpeed>2158</CruiseSpeed>
+    <PassengersNumber>120</PassengersNumber>
+    <CarryingCapacity>76000</CarryingCapacity>
+    <PassengersClass>business</PassengersClass>
+    <Luggage>true</Luggage>
+  </Plane>
+  <Plane xsi:type="CargoPlane">
+    <Manufacturer>McDonnell</Manufacturer>
+    <Model>MD-11</Model>
+    <FlightRange>7320</FlightRange>
+    <CruiseSpeed>945</CruiseSpeed>
+    <PassengersNumber>16</PassengersNumber>
+    <CarryingCapacity>91670</CarryingCapacity>
+    <Usage>commercial</Usage>
+  </Plane>
+  <Plane xsi:type="PassengerPlane">
+    <Manufacturer>Boeing</Manufacturer>
+    <Model>777-300</Model>
+    <FlightRange>11120</FlightRange>
+    <CruiseSpeed>905</CruiseSpeed>
+    <PassengersNumber>550</PassengersNumber>
+    <CarryingCapacity>90000</CarryingCapacity>
+    <PassengersClass>business</PassengersClass>
+    <Luggage>true</Luggage>
+  </Plane>
+  <Plane xsi:type="PassengerPlane">
+    <Manufacturer>Airbus</Manufacturer>
+    <Model>A380</Model>
+    <FlightRange>12000</FlightRange>
+    <CruiseSpeed>910</CruiseSpeed>
+    <PassengersNumber>580</PassengersNumber>
+    <CarryingCapacity>102000</CarryingCapacity>
+    <PassengersClass>business</PassengersClass>
+    <Luggage>true</Luggage>
+  </Plane>
+</ArrayOfPlane>

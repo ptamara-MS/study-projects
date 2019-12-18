@@ -1,0 +1,10 @@
+CargoPlane:Bombardier - Q-400 - 2040 - 667 - 15 - 4700 - commercial
+PassengerPlane:Tupolev - Tu-154 - 2850 - 900 - 95 - 67000 - economy - False
+PassengerPlane:Embraer - E-175 - 3334 - 890 - 76 - 54000 - economy - False
+CargoPlane:Antonov - An-124 - 3700 - 865 - 20 - 150000 - military
+CargoPlane:Lockheed - C-5 - 4440 - 919 - 12 - 122470 - military
+CargoPlane:Douglas - DC-10-30 - 5790 - 908 - 7 - 77000 - commercial
+PassengerPlane:Concorde - G-BOAC - 7223 - 2158 - 120 - 76000 - business - True
+CargoPlane:McDonnell - MD-11 - 7320 - 945 - 16 - 91670 - commercial
+PassengerPlane:Boeing - 777-300 - 11120 - 905 - 550 - 90000 - business - True
+PassengerPlane:Airbus - A380 - 12000 - 910 - 580 - 102000 - business - True

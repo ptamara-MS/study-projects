@@ -1,0 +1,97 @@
+[
+  {
+    "Usage": "commercial",
+    "Manufacturer": 3,
+    "Model": "Q-400",
+    "FlightRange": 2040,
+    "CruiseSpeed": 667,
+    "PassengersNumber": 15,
+    "CarryingCapacity": 4700
+  },
+  {
+    "PassengersClass": "economy",
+    "Luggage": false,
+    "Manufacturer": 9,
+    "Model": "Tu-154",
+    "FlightRange": 2850,
+    "CruiseSpeed": 900,
+    "PassengersNumber": 95,
+    "CarryingCapacity": 67000
+  },
+  {
+    "PassengersClass": "economy",
+    "Luggage": false,
+    "Manufacturer": 6,
+    "Model": "E-175",
+    "FlightRange": 3334,
+    "CruiseSpeed": 890,
+    "PassengersNumber": 76,
+    "CarryingCapacity": 54000
+  },
+  {
+    "Usage": "military",
+    "Manufacturer": 1,
+    "Model": "An-124",
+    "FlightRange": 3700,
+    "CruiseSpeed": 865,
+    "PassengersNumber": 20,
+    "CarryingCapacity": 150000
+  },
+  {
+    "Usage": "military",
+    "Manufacturer": 7,
+    "Model": "C-5",
+    "FlightRange": 4440,
+    "CruiseSpeed": 919,
+    "PassengersNumber": 12,
+    "CarryingCapacity": 122470
+  },
+  {
+    "Usage": "commercial",
+    "Manufacturer": 5,
+    "Model": "DC-10-30",
+    "FlightRange": 5790,
+    "CruiseSpeed": 908,
+    "PassengersNumber": 7,
+    "CarryingCapacity": 77000
+  },
+  {
+    "PassengersClass": "business",
+    "Luggage": true,
+    "Manufacturer": 4,
+    "Model": "G-BOAC",
+    "FlightRange": 7223,
+    "CruiseSpeed": 2158,
+    "PassengersNumber": 120,
+    "CarryingCapacity": 76000
+  },
+  {
+    "Usage": "commercial",
+    "Manufacturer": 8,
+    "Model": "MD-11",
+    "FlightRange": 7320,
+    "CruiseSpeed": 945,
+    "PassengersNumber": 16,
+    "CarryingCapacity": 91670
+  },
+  {
+    "PassengersClass": "business",
+    "Luggage": true,
+    "Manufacturer": 2,
+    "Model": "777-300",
+    "FlightRange": 11120,
+    "CruiseSpeed": 905,
+    "PassengersNumber": 550,
+    "CarryingCapacity": 90000
+  },
+  {
+    "PassengersClass": "business",
+    "Luggage": true,
+    "Manufacturer": 0,
+    "Model": "A380",
+    "FlightRange": 12000,
+    "CruiseSpeed": 910,
+    "PassengersNumber": 580,
+    "CarryingCapacity": 102000
+  }
+]
